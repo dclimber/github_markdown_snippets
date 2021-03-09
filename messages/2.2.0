@@ -1,0 +1,29 @@
+✿ Version 2.2.0
+〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜
+This version adds snippets for Russian keyboard layout. It maps english keys to russian
+ letters. For example if russian layour is on and you type "h1", "р1" will be typed. So
+ if you edit markdown file in russian language, then you can't use this package.
+ To overcome this limitation duplicate snippets, that map english snippet versions to 
+russian layour were added.
+
+〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜
+List of added Tab Triggers
+〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜
+р1              // Heading 1
+р2              // Heading 2
+р3              // Heading 3
+р4              // Heading 4
+р5              // Heading 5
+р6              // Heading 6
+и               // Bold
+ш               // Italic
+ий              // Blockquote
+ыекшлу          // Strikeout
+рк              // Horizontal Rule, Divider
+сщву            // Inline Code
+зку             // Code Block with language based highlighting.
+ф               // Anchor
+шьп             // Image
+щд              // Ordered List
+гд              // Unordered List
+ефиду           // Table

@@ -1,5 +1,5 @@
 ☀☀☀☀☀☀ Thanks for Github Markdown Snippets! (✿✪‿✪｡)ﾉ ☀☀☀☀☀☀☀
-✿ To report bugs and request features - https://github.com/praveenpuglia/github_markdown_snippets
+✿ To report bugs and request features - https://github.com/dclimber/github_markdown_snippets
 
 〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜
 Usage
@@ -13,21 +13,21 @@ Type a tag name and hit tab. That's it! ｡◕‿◕｡
 〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜
 List of Tab Triggers
 〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜
-h1              // Heading 1
-h2              // Heading 2
-h3              // Heading 3
-h4              // Heading 4
-h5              // Heading 5
-h6              // Heading 6
-b               // Bold
-i               // Italic
-bq              // Blockquote
-strike          // Strikeout
-hr              // Horizontal Rule, Divider
-code            // Inline Code
-pre             // Code Block with language based highlighting.
-a               // Anchor
-img             // Image
-ol              // Ordered List
-ul              // Unordered List
-table           // Table
+h1 | р1              // Heading 1
+h2 | р2              // Heading 2
+h3 | р3              // Heading 3
+h4 | р4              // Heading 4
+h5 | р5              // Heading 5
+h6 | р6              // Heading 6
+b | и               // Bold
+i | ш               // Italic
+bq | ий              // Blockquote
+strike | ыекшлу          // Strikeout
+hr | рк              // Horizontal Rule, Divider
+code | сщву            // Inline Code
+pre | зку             // Code Block with language based highlighting.
+a | ф               // Anchor
+img | шьп             // Image
+ol | щд              // Ordered List
+ul | гд              // Unordered List
+table | ефиду           // Table

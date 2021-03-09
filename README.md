@@ -1,18 +1,13 @@
 # GitHub Markdown Snippets
 Helpful Sublime Text snippets to get you started with GitHub flavored Markdown by letting you type the plain old HTML tags.
 
+Supports english and russian keyboard layouts (by [dclimber](https://github.com/dclimber/)).
+
 ## Installation
-
-### Via Package Control
-The easiest way is to install it via [Package Control](https://packagecontrol.io/).
-
-- Go to **Command Palette** <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> or <kbd>⌘</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd>
-- Select **Package Control : Install Package**
-- Search for **Github Markdown Snippets**
 
 ### Manual
 
-- Clone the repository or download the [ZIP](https://github.com/praveenpuglia/github-markdown-snippets/archive/master.zip)
+- Clone the repository or download the [ZIP](https://github.com/dclimber/github-markdown-snippets/archive/master.zip)
 - Extract the archive
 - Put it in your **Packages**( `Preferences > Browse Packages...` ) directory.  
 
@@ -46,12 +41,12 @@ Type a tag name and hit tab. That's it! :relaxed:
 ## List of Tab Triggers
 
 ```
-h1     // Heading 1
-h2     // Heading 2
-h3     // Heading 3
-h4     // Heading 4
-h5     // Heading 5
-h6     // Heading 6
+h1 | р1     // Heading 1
+h2 | р2     // Heading 2
+h3 | р3     // Heading 3
+h4 | р4     // Heading 4
+h5 | р5     // Heading 5
+h6 | р6     // Heading 6
 ```
 # Heading 1  
 ## Heading 2  
@@ -60,11 +55,11 @@ h6     // Heading 6
 ##### Heading 5
 ###### Heading 6
 ```
-b         // Bold
-i         // Italic
-bq        // Blockquote
-strike    // Strikeout
-hr        // Horizontal Rule, Divider
+b | и         // Bold
+i | ш         // Italic
+bq | ий        // Blockquote
+strike | ыекшлу    // Strikeout
+hr | рк        // Horizontal Rule, Divider
 ```
 **Bold Text** 
 
@@ -78,8 +73,8 @@ hr        // Horizontal Rule, Divider
 ---
 
 ```
-code    // Inline Code
-pre     // Code Block with language based highlighting.
+code | сщву    // Inline Code
+pre | зку     // Code Block with language based highlighting.
 ```
 `Inline Code Snippet`
 
@@ -89,17 +84,17 @@ alert( message );
 ```
 
 ```
-a      // Anchor
-img    // Image
+a | ф      // Anchor
+img | шьп    // Image
 ```
 [Link Title](Link) 
 
 ![Puppies are cute](https://c1.staticflickr.com/5/4112/5170590074_714d36db83_b.jpg) 
 
 ```
-ol       // Ordered List
-ul       // Unordered List
-table    // Table
+ol | щд       // Ordered List
+ul | гд       // Unordered List
+table | ефиду    // Table
 ```
 
 1. First Item
@@ -115,12 +110,3 @@ table    // Table
 | ------------- | ------------- |
 | Cell 1-1 | Cell 1-2 |
 | Cell 2-1 | Cell 2-2 |
-
-
-
-
-
-
-
-  
-
